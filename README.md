@@ -15,7 +15,7 @@ end code block.
 ## 목록
 * 순서있는 목록
 
- 		1. first
+	1. first
  		2. second
  		3. third
 
@@ -87,3 +87,7 @@ end
 	![Alt text](/path/to/img.jpg "optional title")
 	
 ![Alt text](./chromium.png)
+
+### 참고
+
+* [markdown사용법] https://gist.github.com/ihoneymon/652be052a0727ad59601
