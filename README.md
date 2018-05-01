@@ -44,15 +44,6 @@ end code block.
 	코드 사용법
 	이렇게 code나 민무뉘 바탕에 글을 적고 싶으면
 	tab키를 이용해서 들여쓰기를 하게 되면 적용이 된다
-
-
-ex)
-this is Test code:
-```
-int main(){
-	print("hello world");
-}
-```
 	ex)this is Test code:
 
 		markdown!!
@@ -69,6 +60,14 @@ ex)this is Test code:
 
 	markdown!!
 end 
+
+ex)
+this is Test code:
+```
+int main(){
+	print("hello world");
+}
+```
 
 ## 링크
 
@@ -102,6 +101,12 @@ end
 	![Alt text](/path/to/img.jpg "optional title")
 	
 ![Alt text](./chromium.png)
+
+## 동영상
+₩₩₩
+@[동영상](https://www.youtube.com/watch?v=CS2bLJMrI6Y)
+₩₩₩
+@[동영상](https://www.youtube.com/watch?v=CS2bLJMrI6Y)
 
 ### 참고
 
