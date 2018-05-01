@@ -47,10 +47,12 @@ end code block.
 	tab키를 이용해서 들여쓰기를 하게 되면 적용이 된다
 	
 	ex)this is Test code:
+
 		markdown!!
 	end line
 	
 ex)this is Test code:
+
 	markdown!!
 end line
 
