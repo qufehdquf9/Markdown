@@ -49,7 +49,7 @@ end code block.
 	1)this is Test code:
 
 		markdown!!
-	end line
+	end 
 
 	2)
 	this is Test code:
@@ -58,14 +58,13 @@ end code block.
 		print("hello world");
 	}
 	```
-	
+
 1)this is Test code:
 
 	markdown!!
 end 
 
-2)
-this is Test code:
+2)this is Test code:
 ```
 int main(){
 	print("hello world");
