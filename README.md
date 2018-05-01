@@ -104,9 +104,9 @@ int main(){
 
 ## 동영상
 ```
-@[동영상](https://www.youtube.com/watch?v=CS2bLJMrI6Y)
+[![동영상]](https://www.youtube.com/watch?v=CS2bLJMrI6Y)
 ```
-@[아이유 인기곡](https://www.youtube.com/watch?v=CS2bLJMrI6Y)
+[![아이유 인기곡]](https://www.youtube.com/watch?v=CS2bLJMrI6Y)
 
 ### 참고
 
