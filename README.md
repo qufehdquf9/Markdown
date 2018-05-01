@@ -15,22 +15,22 @@ end code block.
 ## 목록
 * 순서있는 목록
 
- 	1. first
- 	2. second
- 	3. third
+ 		1. first
+ 		2. second
+ 		3. third
 
 1. first
 2. second
 3. third
 
 * 순서없는 목록
- 	* first
-		* second
+ 		* first
+			* second
 				* third
 
-	+ first
-	+ second
-	+ third
+		+ first
+		+ second
+		+ third
 
 * first
 	* second
@@ -59,16 +59,16 @@ end
 
 * 참조링크
 
- 	[link keyword][id]
-	[id]: URL
+ 		[link keyword][id]
+		[id]: URL
 
-	ex)[Chromium] https://www.chromium.org/
+		ex)[Chromium] https://www.chromium.org/
 
 [Chromium] https://www.chromium.org/
 
 * 인라인 링크
-	
- 	[Title](link)
- 	ex)[Chromium](https://www.chromium.org/)
+
+		[Title](link)
+ 		ex)[Chromium](https://www.chromium.org/)
 
 [Chromium](https://www.chromium.org/)
