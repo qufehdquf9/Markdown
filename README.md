@@ -86,4 +86,4 @@ end
 	![Alt text](/path/to/img.jpg)
 	![Alt text](/path/to/img.jpg "optional title")
 	
-![Alt text](./chromium.jpg)
+![Alt text](./chromium.png)
