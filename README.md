@@ -60,7 +60,6 @@ end
 
 * 참조링크
 
-
 	[link keyword][id]
 	[id]: URL
 
@@ -69,9 +68,8 @@ end
 [Chromium] https://www.chromium.org/
 
 * 인라인 링크
-
+	
 	[Title](link)
-
 	ex)[Chromium](https://www.chromium.org/)
 
 [Chromium](https://www.chromium.org/)
