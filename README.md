@@ -72,3 +72,18 @@ end
  		ex)[Chromium](https://www.chromium.org/)
 
 [Chromium](https://www.chromium.org/)
+
+## 강조
+
+	**Strong Word**
+	~~Remove Word~~
+
+**Strong Word**
+~~Remove Word~~
+
+## 이미지
+
+	![Alt text](/path/to/img.jpg)
+	![Alt text](/path/to/img.jpg "optional title")
+	
+![Alt text](./chromium.jpg)
