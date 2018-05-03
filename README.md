@@ -50,6 +50,7 @@ This is a normal paragraph:
 	이렇게 code나 민무뉘 바탕에 글을 적고 싶으면
 	1)tab키를 이용해서 들여쓰기를 하게 되면 적용이 된다.
 	2)```로 감싸줘도 된다.
+	3)~~~로 감싸줘도 된다.
 
 	1)this is Test code:
 
@@ -63,6 +64,13 @@ This is a normal paragraph:
 		print("hello world");
 	}
 	```
+	3)
+	this is Test code:
+	~~~
+	int main(){
+		print("hello world");
+	}
+	~~~
 
 1)this is Test code:
 
@@ -76,6 +84,12 @@ int main(){
 }
 ```
 
+3)this is Test code:
+~~~
+int main(){
+	print("hello world");
+}
+~~~
 ## 링크
 
 * 참조링크
@@ -121,6 +135,7 @@ int main(){
 | :-------- | --------: |
 | cell 1    | cell 2    |
 | cell 3    | cell 4    |
+
 ```
 | Left Aligned | Centered | Right Aligned | Left Aligned | Centered | Right Aligned |
 | :----------- | :------: | ------------: | :----------- | :------: | ------------: |
@@ -132,6 +147,24 @@ int main(){
 | :----------- | :------: | ------------: | :----------- | :------: | ------------: |
 | Cell 1       | Cell 2   | Cell 3        | Cell 4       | Cell 5   | Cell 6        |
 | Cell 7       | Cell 8   | Cell 9        | Cell 10      | Cell 11  | Cell 12       |
+
+## 정의 목록
+~~~
+WordPress
+:  세계 최대의 오픈 소스 
+저작물 관리 시스템 
+
+Markdown
+:  일반 텍스트 문서를
+HTML로 변환하는 도구
+~~~
+WordPress
+:  세계 최대의 오픈 소스 
+저작물 관리 시스템 
+
+Markdown
+:  일반 텍스트 문서를
+HTML로 변환하는 도구
 
 ### 참고
 
