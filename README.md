@@ -178,6 +178,19 @@ HTML로 변환하는 도구
 
 [^1]: 각주다.
 
+## 약어
+~~~
+마크다운(Markdown)은 일반 텍스트를
+HTML로 변환한다.
+
+*[HTML]: HyperText Markup Language
+~~~
+
+마크다운(Markdown)은 일반 텍스트를
+HTML로 변환한다.
+
+*[HTML]: HyperText Markup Language
+
 ### 참고
 
 * [markdown사용법] https://gist.github.com/ihoneymon/652be052a0727ad59601
